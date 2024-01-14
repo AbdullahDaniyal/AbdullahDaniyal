@@ -20,7 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahdaniyal&show_icons=true&locale=en" alt="abdullahdaniyal" /></p>
 
-<p align="center">
-  <img src="https://meme-api.com/gimme" alt="Random Meme" />
-</p>
 
