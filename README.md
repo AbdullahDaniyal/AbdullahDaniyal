@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Daniyal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="" alt="coding" width="100%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="" alt="coding" width="500" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahdaniyal&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahdaniyal" /> </p>
 
