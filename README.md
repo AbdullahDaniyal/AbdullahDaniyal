@@ -22,5 +22,5 @@
 
 <h2 align="center">Random Dev Meme 😂</h3>
 <p align="cemter">
-<img src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
+ <img align="center" src='https://randommeme-five.vercel.app/' style="width: 500px;"/>
 </p>
