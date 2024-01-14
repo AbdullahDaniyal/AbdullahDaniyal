@@ -20,8 +20,3 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=abdullahdaniyal&show_icons=true&locale=en" alt="abdullahdaniyal" /></p>
 
-<h2 align="center">Random Dev Meme 😂</h3>
-<p align="center">
- <img src='https://randommeme-five.vercel.app/' style="width: 500px;"/>
-</p>
-
